@@ -1,0 +1,53 @@
+﻿#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+}
+
+body {
+    background-color:black;
+    color:gold;
+}
+#header{
+    color:white;
+    text-align:center;
+    width:100%;
+    height:auto;
+}
+#navbar {
+    text-align: center;
+    width: 100%;
+    height: 20px;
+    background-color: aliceblue;
+    color: black;
+}
+#footer {
+    color: White;
+    text-align: center;
+}
+#Button1, #Button2l, #Button1s, #Button2s{
+    background-color: black;
+    color: gold;
+    margin: 20px;
+    width: 45%;
+    border-radius: 20px;
+}
+#TextBox1, #TextBox2, #TextBox3, #TextBox4, #TextBox5, #TextBox6, #TextBox7{
+    width:100%;
+}
+#Label2s, #Label1s{
+    color:red;
+}
+#TextBox2s, #TextBox1s {
+    width: 100%;
+    border-radius:20px;
+    border:1px solid white;
+}
+#DropDownList2, #DropDownList1{
+    width: 100%;
+}
+.pic{
+    width:30%;
+    height:300px;
+}
